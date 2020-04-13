@@ -1,0 +1,8 @@
+Date,Time,Latitude,Longitude,Type,Depth,Magnitude,Magnitude Error,Predicted Magnitude
+,,,,,,,,
+,,,,,,,,
+10/13/2016,20:40:51,39.8063,20.6463,Earthquake,22,5.4,,
+10/15/2016,20:14:50,39.8063,20.6463,Earthquake,22,5.5,,5.874379
+,,,,,,,,
+12/27/2016,22:30:19,-9.0283,118.6639,Earthquake,79,5.6,,
+12/29/2016,20:30:19,-9.0283,118.6639,Earthquake,79,6.3,0.78,6.284899
